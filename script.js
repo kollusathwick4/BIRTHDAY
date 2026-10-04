@@ -388,19 +388,19 @@ window.addEventListener('scroll', () => {
 ════════════════════════════════════ */
 const lbGalleries = {
   personal: [
-    { src: '1-BT.jpeg', fallback: 'https://placehold.co/800x900/ff6eb4/fff?text=Photo+1', label: '💖 Moment 1' },
-    { src: '2-BT.jpeg', fallback: 'https://placehold.co/800x900/a855f7/fff?text=Photo+2', label: '⭐ Moment 2' },
-    { src: '6-BT.jpeg', fallback: 'https://placehold.co/800x900/ffd93d/333?text=Photo+3', label: '🌟 Moment 3' },
-    { src: '4-BT.jpeg', fallback: 'https://placehold.co/800x900/00d2d3/fff?text=Photo+4', label: '🎵 Moment 4' },
-    { src: '5-BT.jpeg', fallback: 'https://placehold.co/800x900/ff9f43/fff?text=Photo+5', label: '🌈 Moment 5' },
+    { src: 'Example1-BT.jpeg', fallback: 'https://placehold.co/800x900/ff6eb4/fff?text=Photo+1', label: '💖 Moment 1' },
+    { src: 'Example2-BT.jpeg', fallback: 'https://placehold.co/800x900/a855f7/fff?text=Photo+2', label: '⭐ Moment 2' },
+    { src: 'Example3-BT.jpeg', fallback: 'https://placehold.co/800x900/ffd93d/333?text=Photo+3', label: '🌟 Moment 3' },
+    { src: 'Example4-BT.jpeg', fallback: 'https://placehold.co/800x900/00d2d3/fff?text=Photo+4', label: '🎵 Moment 4' },
+    { src: 'Example5-BT.jpeg', fallback: 'https://placehold.co/800x900/ff9f43/fff?text=Photo+5', label: '🌈 Moment 5' },
   ],
   family: [
-    { src: 'FAMILY-1.jpeg', fallback: 'https://placehold.co/900x600/ff6eb4/fff?text=Family+1', label: 'Family Moment 💕' },
-    { src: 'FAMILY-2.jpeg', fallback: 'https://placehold.co/900x600/a855f7/fff?text=Family+2', label: 'Family Moment ✨' },
-    { src: 'FAMILY-3.jpeg', fallback: 'https://placehold.co/900x600/ffd93d/333?text=Family+3', label: 'Family Moment 🌟' },
-    { src: 'FAMILY-4.jpeg', fallback: 'https://placehold.co/900x600/00d2d3/fff?text=Family+4', label: 'Family Moment 🎊' },
-    { src: 'FAMILY-5.jpeg', fallback: 'https://placehold.co/900x600/ff9f43/fff?text=Family+5', label: 'Family Moment 🌸' },
-    { src: 'FAMILY-6.jpeg', fallback: 'https://placehold.co/900x600/54a0ff/fff?text=Family+6', label: 'Family Moment 💙' },
+    { src: 'ExampleFAMILY-1.jpeg', fallback: 'https://placehold.co/900x600/ff6eb4/fff?text=Family+1', label: 'Family Moment 💕' },
+    { src: 'ExampleFAMILY-2.jpeg', fallback: 'https://placehold.co/900x600/a855f7/fff?text=Family+2', label: 'Family Moment ✨' },
+    { src: 'ExampleFAMILY-3.jpeg', fallback: 'https://placehold.co/900x600/ffd93d/333?text=Family+3', label: 'Family Moment 🌟' },
+    { src: 'ExampleFAMILY-4.jpeg', fallback: 'https://placehold.co/900x600/00d2d3/fff?text=Family+4', label: 'Family Moment 🎊' },
+    { src: 'ExampleFAMILY-5.jpeg', fallback: 'https://placehold.co/900x600/ff9f43/fff?text=Family+5', label: 'Family Moment 🌸' },
+    { src: 'ExampleFAMILY-6.jpeg', fallback: 'https://placehold.co/900x600/54a0ff/fff?text=Family+6', label: 'Family Moment 💙' },
   ]
 };
 
